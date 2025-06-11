@@ -102,10 +102,7 @@ Cookie: session=abc123
 
 The **author is not responsible** for any misuse of this tool. Use it responsibly and in compliance with **all applicable laws and regulations**. Ensure you have explicit **permission from the system owner** before testing.
 
-## License
-
-This project is licensed under the **MIT License**. See the `LICENSE` file for details.
-
 ## Contributing
 
 Contributions are welcome! Feel free to **submit a pull request** or **open an issue** to discuss improvements or bug fixes.
+---
